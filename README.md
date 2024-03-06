@@ -261,7 +261,7 @@ If you are in academia and do not know where to register your account in the fed
 - [ecoevo.social](https://ecoevo.social) (biological ecology and evolution) 
 - [EconTwitter.net](https://econtwitter.net/explore) (Economics)
 - [EUPolicy.social](https://eupolicy.social/about)
-- [faculty.mastodon.stanford.edu](https://faculty.mastodon.stanford.edu/)
+- [faculty.mastodon.stanford.edu](https://faculty.mastodon.stanford.edu/) (For all faculty at Stanford University)
 - [Fedihum](https://fedihum.org) (Humanities, with a focus on Digital Humanities)
 - [Fediphilosophy](https://fediphilosophy.org/) (Mastodon instance for academic philosophers; [server guide & rules](https://github.com/xiyudu/fediphilosophy))
 - [Fediscience](https://fediscience.org) (General science)
